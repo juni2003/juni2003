@@ -1,11 +1,19 @@
-- 👋 Hi, I’m Junaid
-- 👀 I’m interested in learning new skills in coding
-- 🌱 I’m currently learning C++ , Python
-- 💞️ I’m looking to collaborate on any relevant open source project
-- 💞️ I like to play football and chess in freetime
-- 📫 How to reach me juni.xatti@gmail.com
+### 👋 Hi, I’m Junaid Mohi Ud Din
 
-<!---
-juni2003/juni2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm a Computer Science student (6th semester) at Bahria University, Islamabad, with a strong interest in full-stack development and artificial intelligence.
+
+💻 I work primarily with:
+- **Languages**: Python, C++, JavaScript  
+- **Web Technologies**: React.js, Node.js, MongoDB, Flask  
+- **AI/ML Tools**: TF-IDF, KNN, spaCy, TextBlob, CLIP, Tkinter
+
+🧠 I love building practical projects like:
+- AI-based recommendation systems  
+- Meme generators using NLP & Computer Vision  
+- Real-time web apps with authentication and routing
+
+🌱 Currently learning advanced backend concepts and contributing to open-source when possible.
+
+⚽ Outside of tech, I enjoy playing football and chess.
+
+📫 Reach me at: [juni.xatti@gmail.com](mailto:juni.xatti@gmail.com)
