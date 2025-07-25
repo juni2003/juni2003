@@ -17,3 +17,4 @@
 ⚽ Outside of tech, I enjoy playing football and chess.
 
 📫 Reach me at: [juni.xatti@gmail.com](mailto:juni.xatti@gmail.com)
+🌐 Check my portfolio: https://junaid-portfolio-ruby.vercel.app/
