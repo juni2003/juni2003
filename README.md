@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Junaid Mohi Ud Din
 
-🎓 I'm a Computer Science student (6th semester) at Bahria University, Islamabad, with a strong interest in full-stack development and artificial intelligence.
+🎓 I'm a Final-year Computer Science student at Bahria University, Islamabad, with a strong interest in full-stack development and artificial intelligence.
 
 💻 I work primarily with:
 - **Languages**: Python, C++, JavaScript  
@@ -17,4 +17,5 @@
 ⚽ Outside of tech, I enjoy playing football and chess.
 
 📫 Reach me at: [juni.xatti@gmail.com](mailto:juni.xatti@gmail.com)
+
 🌐 Check my portfolio: https://junaid-portfolio-ruby.vercel.app/
