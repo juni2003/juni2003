@@ -12,7 +12,7 @@
 - Meme generators using NLP & Computer Vision  
 - Real-time web apps with authentication and routing
 
-🌱 Currently learning React and TailwindCSS and mordren AI concepts.
+🌱 Currently learning about AI Deep Learning and Naural Networks.
 
 ⚽ Outside of tech, I enjoy playing football and chess.
 
