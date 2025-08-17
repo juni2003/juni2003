@@ -1,6 +1,6 @@
 <!-- Animated Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:1E90FF&height=180&section=header&text=JUNAID%20MOHI%20UD%20DIN&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:DA70D6&height=180&section=header&text=JUNAID%20MOHI%20UD%20DIN&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
@@ -68,5 +68,5 @@
 
 <!-- Animated Bottom Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:6A5ACD&height=120&section=footer&text=%22Innovate%20%7C%20Create%20%7C%20Inspire%22&fontSize=22&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DA70D6,100:8A2BE2&height=120&section=footer&text=%22Innovate%20%7C%20Create%20%7C%20Inspire%22&fontSize=22&fontColor=ffffff"/>
 </p>
