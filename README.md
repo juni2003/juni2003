@@ -78,7 +78,7 @@
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juni2003&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em"/>
-  <img src="https://streak-stats.demolab.com/?user=juni2003&theme=tokyonight" alt="GitHub Streak" height="180em"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juni2003&theme=tokyo-night" alt="Contribution Graph" height="180em"/>
 </p>
 
 <p align="center">
