@@ -77,11 +77,8 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juni2003&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juni2003&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juni2003&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juni2003&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em"/>
+  <img src="https://streak-stats.demolab.com/?user=juni2003&theme=tokyonight" alt="GitHub Streak" height="180em"/>
 </p>
 
 <p align="center">
