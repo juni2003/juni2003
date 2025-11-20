@@ -79,12 +79,15 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=juni2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=juni2003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juni2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juni2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=juni2003&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juni2003&theme=tokyonight" alt="Profile Details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=juni2003&theme=tokyonight" alt="3D Contribution Graph"/>
 </p>
 
 ---
