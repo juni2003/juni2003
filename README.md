@@ -76,13 +76,15 @@
 ---
 
 ## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juni2003&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juni2003&theme=tokyo-night" alt="Contribution Graph" height="180em"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=juni2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=juni2003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juni2003&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juni2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=juni2003&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
