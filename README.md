@@ -30,12 +30,13 @@
 ---
 
 ## 🔧 About Me  
-🎓 I'm a **Final-year Computer Science student** at *Bahria University, Islamabad* with a passion for **full-stack development** and **artificial intelligence**.  
-💡 I believe in learning by building — turning concepts into **real-world projects**.  
+🎓 **Final-year Computer Science student** at *Bahria University, Islamabad*  
+🤖 Specializing in **AI/ML, Deep Learning & Full-Stack Development**  
 
-- 🔭 Currently working on: **AI-powered projects & full-stack web apps**  
-- 🌱 Currently learning: **Deep Learning & Neural Networks**  
-- 🤝 Open to collaborate on: **AI, Web Development & Open-source projects**  
+- 🔭 Currently working on: **Agentic AI Systems & Deep Learning Models**  
+- 🌱 Currently learning: **RAG Systems, Transfer Learning & Neural Networks**  
+- 🤝 Open to collaborate on: **AI/ML, Web Development & Open-source projects**  
+- 💼 Seeking: **Internship opportunities in AI/ML or Full-Stack Development**
 - ⚽ Fun fact: I enjoy **football and chess** outside of coding!  
 
 ---
@@ -47,15 +48,38 @@
 
 ---
 
-## 🚀 Projects I Built
-- 🎬 **Movie Recommendation System** – React + Flask + KNN + TMDB API  
-- 🕹 **Flappy Bird Two Player Game** – Built in **C++ & SFML**  
-- 🚇 **Metro Ticketing System** – MERN Stack project  
-- 🤖 **AI Meme Generator** – Python, Tkinter, NLP & CV  
+## 🚀 Featured Projects
+
+### 🌾 Smart Farming Advisor – Agentic AI System
+**Python | PyTorch | Deep Learning | RAG**
+- Intelligent multi-tool system with 99.39% crop recommendation accuracy
+- Disease detection using ResNet50 (98.97% accuracy)
+- RAG-powered farming Q&A with 100% intent classification
+- [View Project →](link)
+
+### 🎬 Movie Recommendation System
+**React | Flask | KNN | TMDB API**
+- TF-IDF & KNN-based intelligent recommendations
+- Full-stack implementation with modern UI
+- [View Project →](link)
+
+### 🚇 Metro Ticketing System
+**MERN Stack | MongoDB | React**
+- Complete booking system with fare calculator & validation
+- [View Project →](link)
+
+### 🎮 Flappy Bird Two Player Game
+**C++ | SFML | OOP**
+- Custom collision detection & scoring system
+- [View Project →](link)
 
 ---
 
 ## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juni2003&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juni2003&theme=tokyonight" alt="GitHub Streak" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juni2003&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
