@@ -50,6 +50,7 @@
 
 ## 🚀 Featured Projects
 
+
 ### 🌾 Smart Farming Advisor – Agentic AI System
 **Python | PyTorch | Deep Learning | RAG**
 - Intelligent multi-tool system with 99.39% crop recommendation accuracy
