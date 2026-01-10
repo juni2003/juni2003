@@ -79,34 +79,20 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- GitHub Stats Card - Using RapidTools (self-hosted, reliable) -->
+  <!-- GitHubCard - All-in-one stats (NEW 2026 tool) -->
   <img
-    src="https://stats.rapidtools.dev/api? username=juni2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-    height="180"
-  />
-  <!-- Top Languages -->
-  <img
-    src="https://stats.rapidtools.dev/api/top-langs/? username=juni2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Top Languages"
-    height="180"
+    src="https://githubcard.com/juni2003"
+    alt="GitHub Card"
+    width="100%"
   />
 </p>
 
 <p align="center">
   <!-- Contributions activity graph (keeping your working one) -->
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=juni2003&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph? username=juni2003&theme=tokyo-night&hide_border=true"
     alt="Contribution Activity Graph"
     width="100%"
-  />
-</p>
-
-<p align="center">
-  <!-- GitHub Streak -->
-  <img
-    src="https://streak-stats.demolab.com? user=juni2003&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
   />
 </p>
 
