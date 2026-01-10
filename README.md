@@ -79,30 +79,48 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Comprehensive metrics card (commits, languages, stars, etc.) -->
+  <!-- GitHub Stats Card -->
   <img
-    src="https://metrics.lecoq.io/juni2003?template=classic&isocalendar=1&languages=1&stars=1&followup=1&config.timezone=Asia/Karachi&v=6"
-    alt="GitHub Metrics Overview"
-    width="100%"
+    src="https://github-readme-stats.vercel.app/api? username=juni2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+    height="180"
+  />
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/? username=juni2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+    height="180"
   />
 </p>
 
 <p align="center">
-  <!-- Contributions activity graph -->
+  <!-- Contributions activity graph (KEEP THIS - IT'S WORKING) -->
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=juni2003&theme=tokyo-night&hide_border=true&v=6"
+    src="https://github-readme-activity-graph. vercel.app/graph?username=juni2003&theme=tokyo-night&hide_border=true&v=6"
     alt="Contribution Activity Graph"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <!-- Commit streak -->
+  <!-- GitHub Streak Stats -->
   <img
-    src="https://streak-stats.demolab.com?user=juni2003&theme=tokyonight&hide_border=true&v=6"
+    src="https://github-readme-streak-stats.herokuapp.com?user=juni2003&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
+
+<p align="center">
+  <!-- Detailed Profile Summary -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juni2003&theme=tokyonight"
+    alt="Profile Summary"
+    width="100%"
+  />
+</p>
+
+---
+
 <!-- Animated Bottom Banner -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DA70D6,100:8A2BE2&height=120&section=footer&text=%22Innovate%20%7C%20Create%20%7C%20Inspire%22&fontSize=22&fontColor=ffffff"/>
