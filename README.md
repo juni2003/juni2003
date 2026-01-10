@@ -79,43 +79,28 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Stats -->
+  <!-- Comprehensive metrics card (commits, languages, stars, etc.) -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=juni2003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=3600&v=4"
-    alt="Junaid's GitHub Stats"
-    height="170"
-  />
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juni2003&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600&v=4"
-    alt="Top Languages"
-    height="170"
+    src="https://metrics.lecoq.io/juni2003?template=classic&isocalendar=1&languages=1&stars=1&followup=1&config.timezone=Asia/Karachi&v=6"
+    alt="GitHub Metrics Overview"
+    width="100%"
   />
 </p>
 
 <p align="center">
-  <!-- Streak (alt source) -->
+  <!-- Contributions activity graph -->
   <img
-    src="https://streak-stats.demolab.com?user=juni2003&theme=tokyonight&hide_border=true&v=4"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=juni2003&theme=tokyo-night&hide_border=true&v=6"
+    alt="Contribution Activity Graph"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <!-- Commit streak -->
+  <img
+    src="https://streak-stats.demolab.com?user=juni2003&theme=tokyonight&hide_border=true&v=6"
     alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <!-- Contribution graph (reliable alt source) -->
-  <img
-    src="https://github-contributions.vercel.app/api.svg?username=juni2003&theme=tokyo-night&v=4"
-    alt="Contribution Graph"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <!-- Profile summary card -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juni2003&theme=tokyonight&v=4"
-    alt="Profile Details"
-    width="100%"
   />
 </p>
 <!-- Animated Bottom Banner -->
