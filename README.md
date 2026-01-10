@@ -79,15 +79,46 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juni2003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juni2003&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  
+
+  <!-- GitHub Readme Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats">
+    <img
+      height="180"
+      alt="Junaid's GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api?username=juni2003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"
+    />
+  </a>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Languages">
+    <img
+      height="180"
+      alt="Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juni2003&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    />
+  </a>
+
 </div>
 
+<!-- Streak Stats (reliable alt source) -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juni2003&theme=tokyonight" width="100%"/>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" title="GitHub Streak">
+    <img
+      alt="GitHub Streak"
+      src="https://streak-stats.demolab.com?user=juni2003&theme=tokyonight&hide_border=true"
+    />
+  </a>
 </div>
+
+<!-- Profile summary card -->
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juni2003&theme=tokyonight"
+    width="100%"
+    alt="Profile Details"
+  />
+</div>
+
 ---
 
 <!-- Animated Bottom Banner -->
