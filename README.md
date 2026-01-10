@@ -78,49 +78,46 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-  <!-- GitHub Readme Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats">
-    <img
-      height="180"
-      alt="Junaid's GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api?username=juni2003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"
-    />
-  </a>
-
-  <!-- Top Languages -->
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Languages">
-    <img
-      height="180"
-      alt="Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juni2003&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    />
-  </a>
-
-</div>
-
-<!-- Streak Stats (reliable alt source) -->
-<div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" title="GitHub Streak">
-    <img
-      alt="GitHub Streak"
-      src="https://streak-stats.demolab.com?user=juni2003&theme=tokyonight&hide_border=true"
-    />
-  </a>
-</div>
-
-<!-- Profile summary card -->
-<div align="center">
+<p align="center">
+  <!-- Stats -->
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juni2003&theme=tokyonight"
-    width="100%"
-    alt="Profile Details"
+    src="https://github-readme-stats.vercel.app/api?username=juni2003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=3600&v=4"
+    alt="Junaid's GitHub Stats"
+    height="170"
   />
-</div>
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juni2003&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600&v=4"
+    alt="Top Languages"
+    height="170"
+  />
+</p>
 
----
+<p align="center">
+  <!-- Streak (alt source) -->
+  <img
+    src="https://streak-stats.demolab.com?user=juni2003&theme=tokyonight&hide_border=true&v=4"
+    alt="GitHub Streak"
+  />
+</p>
 
+<p align="center">
+  <!-- Contribution graph (reliable alt source) -->
+  <img
+    src="https://github-contributions.vercel.app/api.svg?username=juni2003&theme=tokyo-night&v=4"
+    alt="Contribution Graph"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <!-- Profile summary card -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juni2003&theme=tokyonight&v=4"
+    alt="Profile Details"
+    width="100%"
+  />
+</p>
 <!-- Animated Bottom Banner -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DA70D6,100:8A2BE2&height=120&section=footer&text=%22Innovate%20%7C%20Create%20%7C%20Inspire%22&fontSize=22&fontColor=ffffff"/>
