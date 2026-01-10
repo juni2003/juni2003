@@ -81,22 +81,22 @@
 <p align="center">
   <!-- GitHub Stats Card -->
   <img
-    src="https://github-readme-stats.vercel.app/api? username=juni2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=juni2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
     height="180"
   />
   <!-- Top Languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/? username=juni2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juni2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Top Languages"
     height="180"
   />
 </p>
 
 <p align="center">
-  <!-- Contributions activity graph (KEEP THIS - IT'S WORKING) -->
+  <!-- Contributions activity graph -->
   <img
-    src="https://github-readme-activity-graph. vercel.app/graph?username=juni2003&theme=tokyo-night&hide_border=true&v=6"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=juni2003&theme=tokyo-night&hide_border=true&v=6"
     alt="Contribution Activity Graph"
     width="100%"
   />
@@ -118,7 +118,6 @@
     width="100%"
   />
 </p>
----
 
 <!-- Animated Bottom Banner -->
 <p align="center">
