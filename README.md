@@ -118,7 +118,6 @@
     width="100%"
   />
 </p>
-
 ---
 
 <!-- Animated Bottom Banner -->
