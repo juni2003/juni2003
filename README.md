@@ -82,8 +82,7 @@
 </p>
 
 <p align="center">
-  <img src="./github-streak.svg" alt="GitHub Streak" width="100%" />
-</p>
+  
 
 <p align="center">
   <!-- GitHub Stats Card - Using RapidTools (self-hosted, reliable) -->
