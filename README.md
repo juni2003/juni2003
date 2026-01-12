@@ -107,13 +107,7 @@
     width="100%"
   />
 </p>
-<p align="center">
-  <!-- GitHub Streak -->
-  <img
-    src="https://streak-stats.demolab.com? user=juni2003&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+
 
 
 <!-- Animated Bottom Banner -->
