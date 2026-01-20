@@ -96,7 +96,6 @@
     height="180"
   />
 </p>
-
 <p align="center">
   <!-- Contributions activity graph (keeping your working one) -->
   <img
