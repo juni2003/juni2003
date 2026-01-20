@@ -107,7 +107,6 @@
 </p>
 
 
-
 <!-- Animated Bottom Banner -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DA70D6,100:8A2BE2&height=120&section=footer&text=%22Innovate%20%7C%20Create%20%7C%20Inspire%22&fontSize=22&fontColor=ffffff"/>
