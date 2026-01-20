@@ -3,11 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:DA70D6&height=180&section=header&text=JUNAID%20MOHI%20UD%20DIN&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+
 <p align="center">
   <b>Full-Stack Developer | AI Enthusiast | Tech Explorer</b>
 </p>
 
----
+
 
 <p align="center">
   <a href="mailto:juni.xatti@gmail.com">
