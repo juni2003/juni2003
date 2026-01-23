@@ -66,12 +66,12 @@
 ### 🚇 Metro Ticketing System
 **MERN Stack | MongoDB | React**
 - Complete booking system with fare calculator & validation
-- [View Project →]()
+- [View Project →](https://github.com/juni2003/Metro-Ticketing-System-Project)
 
 ### 🎮 Flappy Bird Two Player Game
 **C++ | SFML | OOP**
 - Custom collision detection & scoring system
-- [View Project →](link)
+- [View Project →](https://github.com/juni2003/Flappy-Bird-2-player-game)
 
 ---
 ## 📊 GitHub Analytics
