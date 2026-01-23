@@ -55,18 +55,18 @@
 - Intelligent multi-tool system with 99.39% crop recommendation accuracy
 - Disease detection using ResNet50 (98.97% accuracy)
 - RAG-powered farming Q&A with 100% intent classification
-- [View Project →](link)
+- [View Project →](https://github.com/juni2003/Buildable-ML-DL-Fellowship/tree/main/final-project-smart-farming-advisor)
 
 ### 🎬 Movie Recommendation System
 **React | Flask | KNN | TMDB API**
 - TF-IDF & KNN-based intelligent recommendations
 - Full-stack implementation with modern UI
-- [View Project →](link)
+- [View Project →](https://github.com/juni2003/Movie-Recommendation-System)
 
 ### 🚇 Metro Ticketing System
 **MERN Stack | MongoDB | React**
 - Complete booking system with fare calculator & validation
-- [View Project →](link)
+- [View Project →]()
 
 ### 🎮 Flappy Bird Two Player Game
 **C++ | SFML | OOP**
