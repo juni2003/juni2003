@@ -35,7 +35,7 @@
 - 🔭 Currently working on: **Agentic AI Systems & Deep Learning Models**  
 - 🌱 Currently learning: **RAG Systems, Transfer Learning & Neural Networks**  
 - 🤝 Open to collaborate on: **AI/ML, Web Development & Open-source projects**  
-- 💼 Seeking: **Internship opportunities in AI/ML, Data Science or Full-Stack Development**
+- 💼 Seeking: **Work opportunities in AI/ML, Data Science or Full-Stack Development**
 - ⚽ Fun fact: I enjoy **football and chess** outside of coding!  
 
 ---
