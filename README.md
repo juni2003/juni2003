@@ -77,12 +77,7 @@
 
 
 <p align="center">
-  <!-- GitHub Stats Card - Using RapidTools (self-hosted, reliable) -->
-  <img
-    src="https://stats.rapidtools.dev/api? username=juni2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-    height="180"
-  />
+
   <!-- Top Languages -->
   <img
     src="https://stats.rapidtools.dev/api/top-langs/? username=juni2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
