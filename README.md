@@ -8,6 +8,12 @@
   <b>Full-Stack Developer | AI Enthusiast | Tech Explorer</b>
 </p>
 
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</p>
+
+<p align="center">
+  
 
 <p align="center">
   <a href="mailto:juni.xatti@gmail.com">
