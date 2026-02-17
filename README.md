@@ -54,7 +54,7 @@
 - Intelligent multi-tool system with 99.39% crop recommendation accuracy
 - Disease detection using ResNet50 (98.97% accuracy)
 - RAG-powered farming Q&A with 100% intent classification
-- [View Project →]((https://github.com/juni2003/Smart-Farming-Agentic-AI))
+- [View Project →](https://github.com/juni2003/Smart-Farming-Agentic-AI)
 
 ### 🎬 Movie Recommendation System
 **React | Flask | KNN | TMDB API**
