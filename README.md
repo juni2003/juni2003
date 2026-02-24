@@ -43,7 +43,9 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,flask,js,nextjs,react,tailwind,nodejs,express,mongodb,postgres,git,github,vercel" />
 </p>
+
 ---
+
 ## 🚀 Featured Projects
 
 ### 🌾 Smart Farming Agentic AI
