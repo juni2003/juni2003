@@ -45,32 +45,63 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
+### 🌾 Smart Farming Agentic AI
+**Flask | Next.js | Random Forest | ResNet50 | FAISS**
+- ✅ Crop recommendation using **Random Forest (99.39% accuracy)**
+- 🌿 Plant disease detection using **ResNet50 transfer learning (98.97% accuracy)**
+- 💬 RAG-based farming Q&A using **FAISS semantic search** + intent routing
+- Repo: https://github.com/juni2003/Smart-Farming-Agentic-AI  
+- Demo: https://youtu.be/2n2FjiEn05s  
 
-### 🌾 Smart Farming Advisor – Agentic AI System
-**Python | PyTorch | Deep Learning | RAG**
-- Intelligent multi-tool system with 99.39% crop recommendation accuracy
-- Disease detection using ResNet50 (98.97% accuracy)
-- RAG-powered farming Q&A with 100% intent classification
-- [View Project →](https://github.com/juni2003/Smart-Farming-Agentic-AI)
+---
+
+### 🕷️ CrawlX — Web Scraping Platform
+**FastAPI | Next.js | PostgreSQL**
+- 🧩 Full-stack platform to **extract, search, and export** data from real-world websites
+- 🔎 **Fuzzy search** over stored scraped data with PostgreSQL
+- 📊 Modern interactive dashboard for managing scraping workflows
+- Repo: https://github.com/juni2003/CrawlX-Data-Scrapping-Project  
+- Demo: https://www.youtube.com/watch?v=a0GlXZvMmtY  
+
+---
+
+### 🩺 VisiHealth AI (FYP — In Progress)
+**PyTorch | BioBERT | Medical VQA | Explainable AI**
+- 🧠 Medical Visual Question Answering system focused on **explainability**
+- 👁️ ROI-aware visual understanding + **clinical text reasoning**
+- 🧾 Goal: answers with **visual evidence** and medically meaningful explanations  
+- Repo: (private / in progress)  
+- Demo: (in progress)  
+
+---
 
 ### 🎬 Movie Recommendation System
-**React | Flask | KNN | TMDB API**
-- TF-IDF & KNN-based intelligent recommendations
-- Full-stack implementation with modern UI
-- [View Project →](https://github.com/juni2003/Movie-Recommendation-System)
+**React | Flask | TF‑IDF | KNN | TMDB API**
+- 🎯 Content-based movie recommendations using **TF‑IDF + KNN**
+- 🖼️ Integrated **TMDB API** for metadata, posters, and richer UI experience
+- 🧪 Designed for exploration with filtering and discovery-oriented UX  
+- Repo: https://github.com/juni2003/Movie-Recommendation-System  
+- Demo: https://youtu.be/rD4_kNMJ-KY  
+
+---
 
 ### 🚇 Metro Ticketing System
-**MERN Stack | MongoDB | React**
-- Complete booking system with fare calculator & validation
-- [View Project →](https://github.com/juni2003/Metro-Ticketing-System-Project)
+**MongoDB | Express.js | React | Node.js (MERN)**
+- 🧾 Web-based ticketing system with **authentication** and ticket generation
+- 🧭 Fare calculation + routing logic + ticket validation flow  
+- Repo: https://github.com/juni2003/Metro-Ticketing-System-Project  
+- Demo: https://www.youtube.com/watch?v=JMxPkxq1eaM  
 
-### 🎮 Flappy Bird Two Player Game
-**C++ | SFML | OOP**
-- Custom collision detection & scoring system
-- [View Project →](https://github.com/juni2003/Flappy-Bird-2-player-game)
+---
+
+### 😂 AI Meme Generator
+**Python | spaCy | CLIP | Tkinter**
+- 🧠 Generates meme captions using NLP and matches templates using **CLIP**
+- 🖥️ Simple GUI with Tkinter + image/template integration  
+- Repo: https://github.com/juni2003/AI-Meme-Generator  
+- Demo: https://www.youtube.com/watch?v=6eGE0wVo5eg
 
 ---
 ## 📊 GitHub Analytics
