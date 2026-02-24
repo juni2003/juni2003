@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <b>Full-Stack Developer | AI Enthusiast | Tech Explorer</b>
+  <b>Full‑Stack & AI Developer | Building ML‑powered Web Apps</b>
 </p>
 
 
@@ -26,18 +26,18 @@
 </p>
 
 ---
-
-## 🔧 About Me  
+## 🔧 About Me
 🎓 **Final-year Computer Science student** at *Bahria University, Islamabad*  
-🤖 Specializing in **AI/ML, Deep Learning & Full-Stack Development**  
+I build **AI-powered applications** end-to-end—combining **Machine Learning / Deep Learning** with **modern full-stack development**.
 
-- 🔭 Currently working on: **Agentic AI Systems & Deep Learning Models**  
-- 🌱 Currently learning: **RAG Systems, Transfer Learning & Neural Networks**  
-- 🤝 Open to collaborate on: **AI/ML, Web Development & Open-source projects**  
-- 💼 Seeking: **Work opportunities in AI/ML, Data Science or Full-Stack Development**
-- ⚽ Fun fact: I enjoy **football and chess** outside of coding!  
+- 🔭 **Current focus:** Applied ML, Deep Learning, Computer Vision, NLP, and full-stack AI products  
+- 🧠 **What I enjoy building:** RAG-style Q&A, recommender systems, dashboards for data workflows (scraping/search/export), and explainable AI prototypes  
+- 🤝 **Open to:** Entry-level roles, and collaboration in **AI/ML** and **Full‑Stack** projects  
+- 💼 **Seeking:** AI/ML Engineer, Data Science, or Full‑Stack Developer opportunities  
+- ⚽ **Beyond code:** Football & chess
 
 ---
+
 
 ## 💻 Tech Stack
 <p align="center">
