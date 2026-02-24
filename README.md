@@ -41,9 +41,8 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,mongodb,flask,html,css,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,flask,js,nextjs,react,tailwind,nodejs,express,mongodb,postgres,git,github,vercel" />
 </p>
-
 ---
 ## 🚀 Featured Projects
 
