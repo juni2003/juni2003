@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <b>Full‑Stack & AI Developer | Building ML‑powered Web Apps</b>
+  <b>AI & Full-Stack Developer | Machine Learning • Computer Vision • NLP</b>
 </p>
 
 
@@ -27,6 +27,7 @@
 
 ---
 ## 🔧 About Me
+
 🎓 **Final-year Computer Science student** at *Bahria University, Islamabad*  
 I build **AI-powered applications** end-to-end—combining **Machine Learning / Deep Learning** with **modern full-stack development**.
 
@@ -41,14 +42,14 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,flask,js,nextjs,react,tailwind,nodejs,express,mongodb,postgres,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,flask,js,ts,nextjs,react,tailwind,nodejs,express,mongodb,postgres,scrapy,docker,git,github,vercel" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌾 Smart Farming Agentic AI
+### 🌾 Smart Farming Advisor — Agentic AI System
 **Flask | Next.js | Random Forest | ResNet50 | FAISS**
 - ✅ Crop recommendation using **Random Forest (99.39% accuracy)**
 - 🌿 Plant disease detection using **ResNet50 transfer learning (98.97% accuracy)**
@@ -96,11 +97,12 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 - Demo: https://www.youtube.com/watch?v=JMxPkxq1eaM  
 
 ---
-
 ### 😂 AI Meme Generator
-**Python | spaCy | CLIP | Tkinter**
-- 🧠 Generates meme captions using NLP and matches templates using **CLIP**
-- 🖥️ Simple GUI with Tkinter + image/template integration  
+**Python | Tkinter | TF-IDF | Cosine Similarity**
+
+- 🧠 NLP-based meme retrieval using TF-IDF vectorization + cosine similarity
+- 🖼️ Desktop GUI for meme editing (crop, caption overlay, white box removal)
+- 📊 Achieved 99.21% Top-5 similarity accuracy on 6,992 meme dataset
 - Repo: https://github.com/juni2003/AI-Meme-Generator  
 - Demo: https://www.youtube.com/watch?v=6eGE0wVo5eg
 
