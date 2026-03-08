@@ -78,15 +78,6 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 
 ---
 
-### 🩺 VisiHealth AI (FYP — In Progress)
-**PyTorch | BioBERT | Medical VQA | Explainable AI**
-- 🧠 Medical Visual Question Answering system focused on **explainability**
-- 👁️ ROI-aware visual understanding + **clinical text reasoning**
-- 🧾 Goal: answers with **visual evidence** and medically meaningful explanations  
-- Repo: (private / in progress)  
-- Demo: (in progress)  
-
----
 
 ### 🎬 Movie Recommendation System
 **React | Flask | TF‑IDF | KNN | TMDB API**
@@ -116,6 +107,18 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 - Demo: https://www.youtube.com/watch?v=6eGE0wVo5eg
 
 ---
+
+### 🩺 VisiHealth AI (FYP — In Progress)
+**PyTorch | BioBERT | Medical VQA | Explainable AI**
+- 🧠 Medical Visual Question Answering system focused on **explainability**
+- 👁️ ROI-aware visual understanding + **clinical text reasoning**
+- 🧾 Goal: answers with **visual evidence** and medically meaningful explanations  
+- Repo: (private / in progress)  
+- Demo: (in progress)  
+
+
+---
+
 ## 📊 GitHub Analytics
 
 
