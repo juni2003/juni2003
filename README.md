@@ -130,13 +130,17 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
     width="100%"
   />
 </p>
-
-## 📈 Activity Overview
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juni2003&theme=github-dark&hide_border=true)](https://github.com/juni2003)
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=juni2003&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juni2003&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 
 <!-- Animated Bottom Banner -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DA70D6,100:8A2BE2&height=120&section=footer&text=%22Innovate%20%7C%20Create%20%7C%20Inspire%22&fontSize=22&fontColor=ffffff"/>
 </p>
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/juni2003/juni2003/blob/output/github-contribution-grid-snake.svg)
