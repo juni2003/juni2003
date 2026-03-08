@@ -131,8 +131,10 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
   />
 </p>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=juni2003&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juni2003&layout=compact&theme=tokyonight&hide_border=true"/>
+## 📈 Activity Overview
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juni2003&theme=github-dark&hide_border=true)](https://github.com/juni2003)
+
 
 <!-- Animated Bottom Banner -->
 <p align="center">
