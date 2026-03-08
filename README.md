@@ -38,7 +38,16 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 - ⚽ **Beyond code:** Football & chess
 
 ---
+## 🧠 Core Expertise
 
+• Machine Learning Systems  
+• Computer Vision (ResNet, Image Classification)  
+• Natural Language Processing (TF-IDF, Semantic Search)  
+• Retrieval-Augmented Generation (RAG)  
+• Web Scraping & Data Pipelines  
+• Full-Stack AI Applications  
+
+---
 
 ## 💻 Tech Stack
 <p align="center">
