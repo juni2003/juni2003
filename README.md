@@ -28,7 +28,6 @@
 ---
 ## 🔧 About Me
 
-🎓 **Final-year Computer Science student** at *Bahria University, Islamabad*  
 I build **AI-powered applications** end-to-end—combining **Machine Learning / Deep Learning** with **modern full-stack development**.
 
 - 🔭 **Current focus:** Applied ML, Deep Learning, Computer Vision, NLP, and full-stack AI products  
