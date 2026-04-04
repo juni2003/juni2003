@@ -7,7 +7,6 @@
   <b>AI & Full-Stack Developer | Machine Learning • Computer Vision • NLP</b>
 </p>
 
-
 <p align="center">
   <a href="mailto:juni.xatti@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
