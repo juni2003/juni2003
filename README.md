@@ -34,6 +34,7 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 - 💼 **Seeking:** AI/ML Engineer, Data Science, or Full‑Stack Developer opportunities  
 - ⚽ **Beyond code:** Football & chess
 
+
 ---
 ## 🧠 Core Expertise
 
