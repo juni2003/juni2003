@@ -111,7 +111,7 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 - 🧠 Medical Visual Question Answering system focused on **explainability**
 - 👁️ ROI-aware visual understanding + **clinical text reasoning**
 - 🧾 Goal: answers with **visual evidence** and medically meaningful explanations  
-- Repo: (private / in progress)  
+- Repo: https://github.com/juni2003/VisiHealthAI-Medical-Visual-Question-Answering 
 - Demo: (in progress)  
 
 
