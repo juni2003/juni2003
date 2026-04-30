@@ -112,7 +112,7 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 - 👁️ ROI-aware visual understanding + **clinical text reasoning**
 - 🧾 Goal: answers with **visual evidence** and medically meaningful explanations  
 - Repo: https://github.com/juni2003/VisiHealthAI-Medical-Visual-Question-Answering 
-- Demo: (in progress)  
+- Demo: https://www.youtube.com/watch?v=cehaqcAL1dw
 
 
 ---
