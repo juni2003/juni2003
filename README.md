@@ -133,7 +133,7 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 
 >
 
-
+![GitHub Wrapped](https://raw.githubusercontent.com/juni2003/My-Github-Wrapped/main/output/github_wrapped.svg)
 
 <!-- Animated Bottom Banner -->
 <p align="center">
