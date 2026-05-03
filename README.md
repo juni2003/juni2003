@@ -118,7 +118,7 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 ---
 
 ## 📊 GitHub Analytics
-
+![GitHub Wrapped](https://raw.githubusercontent.com/juni2003/My-Github-Wrapped/main/output/github_wrapped.svg)
 
 <p align="center">
   <!-- Github Streak -->
@@ -139,6 +139,6 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DA70D6,100:8A2BE2&height=120&section=footer&text=%22Innovate%20%7C%20Create%20%7C%20Inspire%22&fontSize=22&fontColor=ffffff"/>
 </p>
 
-![GitHub Wrapped](https://raw.githubusercontent.com/juni2003/My-Github-Wrapped/main/output/github_wrapped.svg)
+
 
 ![Snake animation](https://github.com/juni2003/juni2003/blob/output/github-contribution-grid-snake.svg)
