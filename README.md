@@ -118,9 +118,12 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 ---
 
 ## 📊 GitHub Analytics
-![GitHub Wrapped](https://raw.githubusercontent.com/juni2003/My-Github-Wrapped/main/output/github_wrapped.svg)
+
+
 
 <p align="center">
+
+  ![GitHub Wrapped](https://raw.githubusercontent.com/juni2003/My-Github-Wrapped/main/output/github_wrapped.svg)
   <!-- Github Streak -->
   <img src="https://streak-stats.demolab.com?user=juni2003&theme=tokyonight&hide_border=true"/>
   <!-- Contributions activity graph -->
