@@ -122,7 +122,7 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 
 <p align="center">
 
-  ![GitHub Wrapped](https://raw.githubusercontent.com/juni2003/My-Github-Wrapped/main/output/github_wrapped.svg)
+  <img src= "https://raw.githubusercontent.com/juni2003/My-Github-Wrapped/main/output/github_wrapped.svg">
 </p>
 <p align="center">
   <!-- Github Streak -->
