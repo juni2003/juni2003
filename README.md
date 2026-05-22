@@ -142,5 +142,4 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 </p>
 
 
-
 ![Snake animation](https://github.com/juni2003/juni2003/blob/output/github-contribution-grid-snake.svg)
