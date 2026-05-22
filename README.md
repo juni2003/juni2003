@@ -106,7 +106,7 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 
 ---
 
-### 🩺 VisiHealth AI (FYP — In Progress)
+### 🩺 VisiHealth AI (FYP)
 **PyTorch | BioBERT | Medical VQA | Explainable AI**
 - 🧠 Medical Visual Question Answering system focused on **explainability**
 - 👁️ ROI-aware visual understanding + **clinical text reasoning**
