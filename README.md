@@ -135,8 +135,6 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
   />
 </p>
 
->
-
 
 <!-- Animated Bottom Banner -->
 <p align="center">
