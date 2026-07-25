@@ -95,14 +95,15 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 - Demo: https://www.youtube.com/watch?v=JMxPkxq1eaM  
 
 ---
-### 😂 AI Meme Generator
-**Python | Tkinter | TF-IDF | Cosine Similarity**
+### 🚀 CareerNode
+**TypeScript | Python | Next.js | FastAPI | MongoDB | Gemini AI**
 
-- 🧠 NLP-based meme retrieval using TF-IDF vectorization + cosine similarity
-- 🖼️ Desktop GUI for meme editing (crop, caption overlay, white box removal)
-- 📊 Achieved 99.21% Top-5 similarity accuracy on 6,992 meme dataset
-- Repo: https://github.com/juni2003/AI-Meme-Generator  
-- Demo: https://www.youtube.com/watch?v=6eGE0wVo5eg
+- 📩 AI-powered job application tracking system that connects to Gmail and auto-detects updates like application receipts, assessments, and interview invites
+- 🧠 Uses Gemini AI to extract structured details (Company, Role, Application Status) from noisy recruiter emails and keep your pipeline updated
+- 📊 Interactive dashboard for stage-wise tracking (assessment/interview/offer/rejection) with conversion insights and career progress visibility
+- 🤖 Built-in AI assistant for personalized career support including cover letter generation, interview prep, and application data summarization
+- Repo: https://github.com/juni2003/CareerNode  
+- Demo: https://www.youtube.com/watch?v=NrvRsbfFK8E
 
 ---
 
