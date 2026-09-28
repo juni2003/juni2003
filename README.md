@@ -56,6 +56,18 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 
 ## 🚀 Featured Projects
 
+
+### 🛍️ NexusAI — Enterprice Agentic Fashion Assistant
+**Next.js | FastAPI | LangGraph | Supabase | Groq**
+- 🤖 Agentic AI workflow utilizing LangGraph to autonomously classify user intent   
+- ⚡ Lightning-fast LLM inference for sub-second token generation using Groq's LPU   
+- 🔍 Semantic product search and advanced RAG powered by Supabase pgvector   
+- Repo: https://github.com/juni2003/NexusAI-Fashion-Assistant
+- Live: https://nexus-ai-fashion-assistant.vercel.app/ 
+
+---
+
+
 ### 🌾 Smart Farming Advisor — Agentic AI System
 **Flask | Next.js | Random Forest | ResNet50 | FAISS**
 - ✅ Crop recommendation using **Random Forest (99.39% accuracy)**
@@ -76,16 +88,6 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 
 ---
 
-
-### 🎬 Movie Recommendation System
-**React | Flask | TF‑IDF | KNN | TMDB API**
-- 🎯 Content-based movie recommendations using **TF‑IDF + KNN**
-- 🖼️ Integrated **TMDB API** for metadata, posters, and richer UI experience
-- 🧪 Designed for exploration with filtering and discovery-oriented UX  
-- Repo: https://github.com/juni2003/Movie-Recommendation-System  
-- Demo: https://youtu.be/rD4_kNMJ-KY  
-
----
 
 ### 🚇 Metro Ticketing System
 **MongoDB | Express.js | React | Node.js (MERN)**
