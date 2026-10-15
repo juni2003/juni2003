@@ -138,7 +138,6 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
     alt="Contribution Activity Graph"
     width="100%"
   />
-  <img src="https://algora.io/og/user/juni2003" />
 </p>
 
 
@@ -148,3 +147,6 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 </p>
 
 ![Snake animation](https://github.com/juni2003/juni2003/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://algora.io/og/user/juni2003" />
+</p>
