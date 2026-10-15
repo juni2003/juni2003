@@ -138,6 +138,7 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
     alt="Contribution Activity Graph"
     width="100%"
   />
+  <img src="https://algora.io/og/user/juni2003" />
 </p>
 
 
