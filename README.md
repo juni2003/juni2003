@@ -132,12 +132,7 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 <p align="center">
   <!-- Github Streak -->
   <img src="https://streak-stats.demolab.com?user=juni2003&theme=tokyonight&hide_border=true"/>
-  <!-- Contributions activity graph -->
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=juni2003&theme=tokyo-night&hide_border=true"
-    alt="Contribution Activity Graph"
-    width="100%"
-  />
+
 </p>
 
 
