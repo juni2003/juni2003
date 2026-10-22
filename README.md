@@ -85,16 +85,7 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 - 📊 Modern interactive dashboard for managing scraping workflows
 - Repo: https://github.com/juni2003/CrawlX-Data-Scrapping-Project  
 - Demo: https://www.youtube.com/watch?v=a0GlXZvMmtY  
-
----
-
-
-### 🚇 Metro Ticketing System
-**MongoDB | Express.js | React | Node.js (MERN)**
-- 🧾 Web-based ticketing system with **authentication** and ticket generation
-- 🧭 Fare calculation + routing logic + ticket validation flow  
-- Repo: https://github.com/juni2003/Metro-Ticketing-System-Project  
-- Demo: https://www.youtube.com/watch?v=JMxPkxq1eaM  
+  
 
 ---
 ### 🚀 CareerNode
