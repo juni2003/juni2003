@@ -30,7 +30,7 @@ I build **AI-powered applications** end-to-end—combining **Machine Learning / 
 
 - 🔭 **Current focus:** Applied ML, Deep Learning, Computer Vision, NLP, and full-stack AI products  
 - 🧠 **What I enjoy building:** RAG-style Q&A, recommender systems, dashboards for data workflows (scraping/search/export), and explainable AI prototypes  
-- 🤝 **Open to:** Entry-level roles, and collaboration in **AI/ML** and **Full‑Stack** projects  
+- 🤝 **Open to:** AI/ML engineering, LLM application development, or full-stack software engineering roles and open-source contributions.  
 - 💼 **Seeking:** AI/ML Engineer, Data Science, or Full‑Stack Developer opportunities  
 - ⚽ **Beyond code:** Football & chess
 
